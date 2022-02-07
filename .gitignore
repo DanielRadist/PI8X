@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/DummyPhotoshop/obj/Debug/net5.0-windows
+/DummyPhotoshop/obj/Release/net5.0-windows
+/.vs
+/Rakhmanin/.vs
+/Rakhmanin/bin/Debug
+/Rakhmanin/obj
+/Rakhmanin/x64/Debug
+/Rakhmanin/packages
+/Starovoitow/.gitattributes
+/Starovoitow/.gitignore
