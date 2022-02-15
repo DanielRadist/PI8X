@@ -24,10 +24,9 @@ hs_err_pid*
 /DummyPhotoshop/obj/Debug/net5.0-windows
 /DummyPhotoshop/obj/Release/net5.0-windows
 /.vs
-/Rakhmanin/.vs
-/Rakhmanin/bin/Debug
-/Rakhmanin/obj
-/Rakhmanin/x64/Debug
-/Rakhmanin/packages
-/Starovoitow/.gitattributes
-/Starovoitow/.gitignore
+/Bed_PS_code/.vs/LW5_PS1/v16
+/Bed_PS_code/bin
+/Bed_PS_code/obj
+/Mafia_code/bin
+/Mafia_code/obj
+
