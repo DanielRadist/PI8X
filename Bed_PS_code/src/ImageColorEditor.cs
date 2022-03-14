@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace LW5_PS1
 {
-    class ImageColorEditor
+    public class ImageColorEditor
     {
         public readonly int sizeColor = 256;       // кол-во вариантов яроксти цвета в пикселе
         public readonly int maxColor = 255;        // максимальная яркость одного цвета в пикселе
@@ -36,7 +36,7 @@ namespace LW5_PS1
             currImageBmp = image;
         }
 
-        private static int ToByte(int Val) 
+        public static int ToByte(int Val) 
         {
             if (Val > 255)
                 return 255;
